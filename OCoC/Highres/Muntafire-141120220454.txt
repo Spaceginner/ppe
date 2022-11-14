@@ -1,0 +1,5 @@
+Contributor: ᄅƎᴚIℲ∀⊥N∩W █▄ █▄█ █▀█ ▀█▀#9877
+---
+I like to generate 512x512 or 896x512 with 30 steps on auto gen using dpm++2m for speed and ease of prompt adjustment. This gives me an image every 5 to 10 seconds. While it is spitting them out, if there is anything that isn't right I change the prompt. I am not fussed about things being perfect as I only like to generate high quality, high res images that have randomness to them... accepting any and all unique quirks of the images. Once the prompt is perfected I change the settings to use dpm++ 2s a karras on 100 steps using hi res fix on 2048x1152 first pass size 896x512. Leaving it on auto will give me high quality images I can then upscale in gigapixel ai to 8k
+In the end my workflow is simply opening them in gigapixel from the onedrive folder and clicking start once the settings are on 0.12 and 0.80 respectively. I can then open them in GIMP, where I have a macro to auto export them in jpg quality 80 in 5 seconds by clicking one button. I can then share the image easily as it is an 8k image under 8mB
+Note: auto image generation is constant even during gigapixel upscaling. No stopping required
