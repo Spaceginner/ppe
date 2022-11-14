@@ -1,5 +1,7 @@
 # Practical Prompt Engineering
-The goal of this project is to combine all info about prompt engineering for AI art in a one useful document
+The goal of this project is to combine all info about prompt engineering for AI art in a one useful document.
+
+The document itsef you can find in `/docs/` folder or by visiting the [site](https://spaceginner.github.io/ppe)
 ## Original Content of a Contribution
 You can find original content of a contribution in a folder "OCoC". Files are named by this rule:
 ```
